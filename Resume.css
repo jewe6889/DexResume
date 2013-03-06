@@ -1,0 +1,36 @@
+#title {
+  text-align: center;
+  display: none;
+  border: 1px solid #99cc00;
+  background: #99cc00;
+}
+
+#break {
+  height: 10px;
+  background: #3A5F0B;
+  margin: 0px 0px 50px 0px;  
+}
+
+#image_holder{
+  float: right;
+  display: none;
+}
+
+#accordion_list {
+  float: left;
+  width: 40%;
+}
+
+h5 {
+  font-weight: bold;
+}
+
+li {
+  font-family: garamond;
+  font-size: 16;
+}
+
+.ui-accordion-header {
+  background: #000066;
+  color: #ff6600;
+}
